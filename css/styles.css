@@ -81,3 +81,8 @@ footer {
     cursor: url('/cursor/cursor.svg'), auto;
 
 }
+
+body {
+    background-color: #000000;
+
+}
