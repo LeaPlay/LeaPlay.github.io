@@ -53,26 +53,31 @@ header {
 }
 
 nav {
+    background-color: #000000;
     cursor: url('/cursor/cursor.svg'), auto;
 
 }
 
 main {
+    background-color: #000000;
     cursor: url('/cursor/cursor.svg'), auto;
 
 }
 
 aside {
+    background-color: #000000;
     cursor: url('/cursor/cursor.svg'), auto;
 
 }
 
 section {
+    background-color: #000000;
     cursor: url('/cursor/cursor.svg'), auto;
 
 }
 
 footer {
+    background-color: #000000;
     cursor: url('/cursor/cursor.svg'), auto;
 
 }
