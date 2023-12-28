@@ -1,0 +1,29 @@
+a {
+    text-align: center;
+    color: #808080;
+
+}
+
+p {
+    text-align: center;
+    color: #808080;
+
+}
+
+h1 > h2 {
+    text-align: center;
+    color: #808080;
+
+}
+
+h3 > h4 {
+    text-align: center;
+    color: #808080;
+
+}
+
+h5 > h6 {
+    text-align: center;
+    color: #808080;
+
+}
