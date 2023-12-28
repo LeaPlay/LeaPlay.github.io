@@ -45,3 +45,9 @@ h6 {
     color: #808080;
 
 }
+
+body {
+    background-color: #808080;
+    cursor: url('/cursor/cursor.svg'), auto;
+    
+}
